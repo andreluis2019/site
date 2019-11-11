@@ -26,4 +26,6 @@ public class JogadorScreenController {
         model.addAttribute("jogadorList", jogadorService.findAll());
         return "jogadores";
     }
+
+
 }

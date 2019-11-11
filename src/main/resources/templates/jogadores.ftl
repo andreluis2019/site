@@ -12,6 +12,10 @@
 <@esqueleto.menu>
     <div class="container">
         <h1>Lista de Jogadores</h1>
+        <button>
+            <a href="http://localhost:8080/">Novo</a>
+        </button>
+        <br/>
         <table>
             <thead>
             <tr>

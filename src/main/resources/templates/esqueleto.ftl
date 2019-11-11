@@ -4,6 +4,7 @@
         <title>Menu</title>
     </head>
     <body>
+    <a href="http://localhost:8080/index">Home</a>
     <a href="http://localhost:8080/campeonato-screen">Campeonatos</a>
     <a href="http://localhost:8080/time-screen">Times</a>
     <a href="http://localhost:8080/jogador-screen">Jogadores</a>

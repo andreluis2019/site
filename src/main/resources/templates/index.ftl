@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Clientes!</title>
+    <title>Times de Futebol!</title>
     <link rel="stylesheet"
           type="text/css" href="<@spring.url '/css/cliente.css'/>"/>
 </head>
